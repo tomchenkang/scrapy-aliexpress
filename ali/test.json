@@ -1,0 +1,7 @@
+[{"scheme": "https", "proxy": "https://111.177.187.141:9999"},
+{"scheme": "http", "proxy": "http://27.10.234.138:8118"},
+{"scheme": "http", "proxy": "http://116.209.57.181:9999"},
+{"scheme": "https", "proxy": "https://116.209.58.106:9999"},
+{"scheme": "http", "proxy": "http://110.52.235.64:9999"},
+{"scheme": "http", "proxy": "http://183.6.130.6:8118"},
+{"scheme": "https", "proxy": "https://180.104.107.46:45700"}]
